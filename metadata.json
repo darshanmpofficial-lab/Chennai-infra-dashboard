@@ -1,5 +1,0 @@
-{
-  "name": "UrbanFix: Infrastructure Maintenance System",
-  "description": "A full-stack platform for citizens to report urban issues and admins to monitor and prioritize repairs in real-time.",
-  "requestFramePermissions": ["geolocation"]
-}
